@@ -1,6 +1,6 @@
 # Recurring-Date
 A powerful and reusable React component for selecting and visualizing complex recurring date patterns, inspired by popular scheduling apps. Built with React and styled beautifully with Tailwind CSS.
-# ChronoLoop: Recurring Date Picker Component
+# RecurSync: Recurring Date Picker Component
 
 ![Recurring Date Picker Screenshot/Illustration Placeholder](https://placehold.co/1200x600/E0F2F7/29B6F6?text=ChronoLoop+Recurring+Date+Picker)
 *(Replace this placeholder with an actual screenshot of your running app!)*
