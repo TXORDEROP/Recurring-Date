@@ -2,12 +2,9 @@
 A powerful and reusable React component for selecting and visualizing complex recurring date patterns, inspired by popular scheduling apps. Built with React and styled beautifully with Tailwind CSS.
 # RecurSync: Recurring Date Picker Component
 
-![Recurring Date Picker Screenshot/Illustration Placeholder](https://placehold.co/1200x600/E0F2F7/29B6F6?text=ChronoLoop+Recurring+Date+Picker)
-*(Replace this placeholder with an actual screenshot of your running app!)*
-
 ## Overview
 
-ChronoLoop is a highly customizable and reusable React component designed to simplify the process of defining and visualizing recurring date schedules. Inspired by the intuitive recurrence features found in modern calendar and task management applications, this component provides a comprehensive solution for setting up complex repeating events.
+RecurSync is a highly customizable and reusable React component designed to simplify the process of defining and visualizing recurring date schedules. Inspired by the intuitive recurrence features found in modern calendar and task management applications, this component provides a comprehensive solution for setting up complex repeating events.
 
 ## Features
 
@@ -34,7 +31,7 @@ ChronoLoop is a highly customizable and reusable React component designed to sim
 * **React Context API:** Used for efficient and centralized state management across the component.
 * **JavaScript Date Objects:** Pure JavaScript for all date calculation logic.
 
-## Why ChronoLoop?
+## Why RecurSync?
 
 This component is ideal for applications requiring robust scheduling capabilities, such as:
 * Task managers
